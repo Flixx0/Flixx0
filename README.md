@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="left">Hi 👋! <br>My name is Joel Orgeret<br>I'm a passionate developer from Toulouse, France 🇫🇷<br><br>I focus mainly on React and React Native (with Expo)</h2>
+<img align="right" height="150" src="https://i.kym-cdn.com/photos/images/original/002/429/796/96c.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://i.kym-cdn.com/photos/images/original/002/429/796/96c.gif"  />
+<h2 align="left">Hi 👋! <br>My name is Joel Orgeret<br>I'm a passionate developer from Toulouse, France 🇫🇷<br><br>I focus mainly on React and React Native (with Expo)</h2>
 
 ###
 
